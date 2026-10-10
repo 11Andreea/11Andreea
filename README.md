@@ -1,101 +1,100 @@
-# Hi, I'm Andreea! 👋
+<div align="center">
 
-🎓 High school student | Mathematics-Informatics, bilingual English  
-💻 Aspiring Computer Science student at ACS UPB  
-🔐 Interested in Cybersecurity, Networking & Software Development
 
-## 🏆 Competitions & Achievements
+<h1>Andreea Patrascu-Udrea</h1>
 
-- 🏅 **Honourable Mention — AcadNet, National Stage**
-  - Romanian national competition focused on computer networking, Cisco technologies and network security
+<p>
+  <b>Computer Science Student · Aspiring Software & Security Engineer</b>
+</p>
 
-- 🏅 **Honourable Mention — ONTI, TIC Section, National Stage**
-  - Romanian national competition focused on practical IT skills, including advanced Microsoft Office, VBA, Windows, CMD and web development
+<p>
+  Networking · Cybersecurity · Software Development
+</p>
 
----
+</div>
 
-<details>
-<summary>🧠 More about me</summary>
+## The idea behind the work
 
-### 🧠 About Me
+> Building things, breaking things, learning how they work. 💻🔐
 
-I'm a high school student from Romania with a strong interest in computer
-science, especially networking, cybersecurity and software development.
+I'm a Romanian high school student specializing in Mathematics and Informatics, with bilingual English education. I enjoy solving complex problems, exploring technical systems, and turning what I learn into practical projects.
 
-I enjoy learning by building things, experimenting with new technologies
-and participating in academic competitions.
+My interests span computer networks, cybersecurity, software engineering, and the intersection between systems and security. I learn best by experimenting, building, troubleshooting, and documenting the process.
 
-### 💻 Technical Skills
+- 📍 Drobeta-Turnu Severin, Romania
+- 🎓 Aspiring Computer Science student at the National University of Science and Technology POLITEHNICA Bucharest (ACS)
+- 🏆 National-stage Honorable Mentions in AcadNet and ONTI — TIC
 
-**Programming:**  
-C++, JavaScript, HTML, CSS, React
+## Selected projects
 
-**Networking:**  
-TCP/IP, UDP, NAT, ACL, VPN, QoS, WAN, Cisco Packet Tracer, CCNA fundamentals
+<table>
+<tr>
+<td width="35%" valign="top">
 
-**Cybersecurity:**  
-Linux fundamentals, Wireshark, Burp Suite, web security, cryptography,
-digital forensics, OSINT
+**<a href="https://github.com/11Andreea/secure-enterprise-network">secure-enterprise-network</a>**
 
-**Tools & Software:**  
-Git, GitHub, VS Code, Windows, CMD, Microsoft Office, VBA, Microsoft Access,
-SQL
+</td>
+<td valign="top">
 
-</details>
+A secure enterprise network built in Cisco Packet Tracer, featuring VLAN segmentation, inter-VLAN routing, DHCP, DNS, a DMZ, an ASA firewall, NAT, and network access controls.
 
-<details>
-<summary>🏆 Competitions & Achievements</summary>
+**Focus:** Network architecture, configuration, troubleshooting, and security.
 
-### 🌐 AcadNet
+<sub>Cisco Packet Tracer · TCP/IP · VLANs · ACLs · NAT · Cisco ASA</sub>
 
-🏅 **Honourable Mention — National Stage**
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-Networking-focused competition covering CCNA fundamentals, computer
-networks, Cisco Packet Tracer and network security.
+**<a href="https://github.com/11Andreea/bac-informatica">bac-informatica</a>**
 
-### 💻 ONTI — TIC
+</td>
+<td valign="top">
 
-🏅 **Honourable Mention — National Stage**
+A structured collection of theory, examples, algorithms, practice problems, and revision resources for the Romanian Informatics Baccalaureate.
 
-Technology-focused competition covering:
+**Focus:** Organizing technical knowledge into practical, reusable learning resources.
 
-- Windows
-- Command Prompt (CMD)
-- Advanced Microsoft Office
-- VBA & automation
-- Web development
-- Databases & Microsoft Access
+<sub>C++ · Algorithms · Data Structures</sub>
 
-</details>
+</td>
+</tr>
+</table>
 
-<details>
-<summary>🌱 Currently Learning</summary>
+## Competitions & achievements
 
-- React & modern frontend development
-- Linux
-- Cybersecurity
-- Networking
-- Web security
-- Cryptography
-- CTFs
+- **AcadNet — National Stage | Honorable Mention**  
+  Computer networking, Cisco technologies, CCNA fundamentals, and network security.
 
-</details>
+- **ONTI — TIC, National Stage | Honorable Mention**  
+  Practical IT skills, including Microsoft Office, VBA, Windows, command-line tools, web development, and databases.
 
-<details>
-<summary>🎯 Goals</summary>
+These competitions strengthened my ability to solve problems under time constraints, work with technical requirements, and apply knowledge in practical scenarios.
 
-### Short term
+## Technical toolkit
 
-- Build a strong portfolio
-- Improve JavaScript & React
-- Strengthen Linux and networking skills
-- Develop practical cybersecurity skills
+**Programming & web development**
 
-### Long term
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-- 🎓 Study Computer Science at **ACS UPB**
-- 🔐 Specialize in cybersecurity / information security
-- 🌐 Build strong expertise in computer networks
-- 💻 Work on challenging technical projects
+**Networking & cybersecurity**
 
-</details>
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Databases, automation & productivity**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftoffice&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+*Technologies represent a mix of practical experience, competition work, and ongoing learning.*
